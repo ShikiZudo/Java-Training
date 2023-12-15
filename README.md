@@ -1,2 +1,2 @@
 # Hexaware
-My training projects during Hexaware Foundation Training.
+Hexaware Java batch 2 training project.
