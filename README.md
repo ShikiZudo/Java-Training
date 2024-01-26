@@ -1,2 +1,2 @@
-# Hexaware
-Hexaware Java batch 2 training project.
+# FSD
+FSD Exercises and Projects
